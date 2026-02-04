@@ -13,7 +13,7 @@
             <div class="NavRight">
                 <a href="../index.php" class="NavLink">Home</a>
                 <a href="../Pages/Projects.php" class="NavLink">Projects</a>
-                <a href="../Pages/Projects.php" class="NavLink">Contact</a>
+                <a href="../Pages/Contact.php" class="NavLink">Contact</a>
             </div>
         </div>
     </nav>
