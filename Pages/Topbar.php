@@ -6,10 +6,12 @@
         <div class="NavData">
             <div class="NavLeft">
                 <p class="NavText">Nathaniel Norman</p>
+                <a href="https://github.com/PhoenixWolf0" class="NavLink">[GitHub]</a>
+                <a href="https://www.linkedin.com/in/nathaniel-norman-plaud/" class="NavLink">[LinkedIn]</a>
             </div>
             
             <div class="NavRight">
-                <a href="Index.php" class="NavLink">Home</a>
+                <a href="../index.php" class="NavLink">Home</a>
                 <a href="Projects.php" class="NavLink">Projects</a>
                 <a href="Contact.php" class="NavLink">Contact</a>
             </div>
