@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <?php require "Pages/Topbar.php"; ?>
+    <?php require __DIR__ . "/Pages/Topbar.php"; ?>
     <main>
         <div class="Container">
             <div class="Card">
